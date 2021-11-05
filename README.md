@@ -2,8 +2,8 @@
  Rapid In Out is an entry management system built for a drug and alcohol rehabilitation centre. Project was for a university assignment (AUT's Programming 2 paper). 
  
  ## Assignment Requirements
- [COMP503 ENSE502 ENSE602 - Assignment 2_V2.pdf](https://github.com/djorange77/entry-management-system/files/7487149/COMP503.ENSE502.ENSE602.-.Assignment.2_V2.pdf)
- 
+ [COMP503 ENSE502 ENSE602 Programming 2 - Assignment 2_V2.pdf](https://github.com/djorange77/entry-management-system/files/7487407/COMP503.ENSE502.ENSE602.Programming.2.-.Assignment.2_V2.pdf)
+
  ## Photos of the Running Program
 ![Tab 0](https://user-images.githubusercontent.com/80317637/140535838-47ec2c97-5179-481d-bc49-9105037a5eb5.png)
 ![Tab 1](https://user-images.githubusercontent.com/80317637/140535849-6a70aa94-63c3-4c3e-9e87-57d50dcb8670.png)
